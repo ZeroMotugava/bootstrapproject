@@ -1,0 +1,27 @@
+{
+  "name": "npm1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000b\u0000o\u0000o\u0000t\u0000s\u0000t\u0000r\u0000a\u0000p\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000b\u0000o\u0000o\u0000t\u0000s\u0000t\u0000r\u0000a\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroMotugava/projectbootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroMotugava/projectbootstrap/issues"
+  },
+  "homepage": "https://github.com/ZeroMotugava/projectbootstrap#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
